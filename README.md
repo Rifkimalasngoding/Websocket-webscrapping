@@ -2,8 +2,8 @@
 ini tugas kuliah saya yang isinya web menggunakan flask buat nge scrap quotes secara instan
 <br>
 <h1>Teknologi yang digunakan</h1>
-Flask (Python Web Framework)
-WebSocket (Real-time update)
+Flask (Python Web Framework)<br>
+WebSocket (Real-time update)<br>
 BeautifulSoup (Web Scraping)
 <br>
 caranya buka terminal trus ketik
