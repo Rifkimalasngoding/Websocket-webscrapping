@@ -6,7 +6,8 @@ ini tugas kuliah saya yang isinya web menggunakan flask buat nge scrap quotes se
 -WebSocket (Real-time update)<br>
 -BeautifulSoup (Web Scraping)
 <br>
-caranya buka terminal trus ketik
+caranya 
+buka terminal trus ketik
 source venv/bin/activate --> ini buat nyalain dan masuk venv di python
 python app.py --> ini nanti yang di running di terminal
 
